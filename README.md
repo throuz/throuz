@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Throuz.
+## 👋 Hi, I’m Throuz
 
 I'm a frontend engineer with 4 years of experience, specializing in creating intuitive and dynamic user interfaces. I love solving complex problems with elegant code and am passionate about building high-quality web applications.
 
