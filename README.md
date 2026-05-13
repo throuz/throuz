@@ -1,3 +1,3 @@
 With 5 years of practical experience, specializing in the TypeScript ecosystem and AWS Serverless architecture design. Holding AWS SAA certification, possessing the complete capability to independently deliver complex cloud products from scratch (covering AI analysis, financial APIs, and asynchronous task processing). Skilled at building highly scalable systems with extremely low maintenance costs, a well-rounded developer capable of solving technical challenges with a product-oriented mindset.
 
-email: zed2786328@gmil.com
+email: zed2786328@gmail.com
